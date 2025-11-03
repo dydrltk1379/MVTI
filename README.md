@@ -1,4 +1,4 @@
-<img width="785" height="369" alt="image" src="https://github.com/user-attachments/assets/68c17e5d-1d2b-47aa-9786-be544ccff18d" />## 1. 프로젝트 개요 (Overview)
+<img width="1241" height="563" alt="system structure" src="https://github.com/user-attachments/assets/9b34713f-c893-4342-92ea-d4d84146b123" /><img width="785" height="369" alt="image" src="https://github.com/user-attachments/assets/68c17e5d-1d2b-47aa-9786-be544ccff18d" />## 1. 프로젝트 개요 (Overview)
 
 **"백엔드 데이터와 머신러닝(ML)의 '흥미'를 '구현'으로 옮긴 첫걸음"**
 
@@ -34,7 +34,7 @@ MVTI는 사용자의 MBTI 성향을 분석하여, 개인의 성격 유형에 맞
 ## 4. 시스템 구성도 (System Architecture)
 
 *(포트폴리오 4페이지의 '시스템 구성도' 이미지를 이 위치에 삽입하세요)*
-<img width="785" height="369" alt="image" src="https://github.com/user-attachments/assets/c5875c75-2429-4d2c-b4d8-35e086790ab4" />
+<img width="1241" height="563" alt="system structure" src="https://github.com/user-attachments/assets/51f99f44-35e0-4a35-8370-f51dfaa770d9" />
 
 
 
