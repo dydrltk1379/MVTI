@@ -1,4 +1,4 @@
-<img width="1241" height="563" alt="system structure" src="https://github.com/user-attachments/assets/9b34713f-c893-4342-92ea-d4d84146b123" /><img width="785" height="369" alt="image" src="https://github.com/user-attachments/assets/68c17e5d-1d2b-47aa-9786-be544ccff18d" />## 1. 프로젝트 개요 (Overview)
+## 1. 프로젝트 개요 (Overview)
 
 **"백엔드 데이터와 머신러닝(ML)의 '흥미'를 '구현'으로 옮긴 첫걸음"**
 
